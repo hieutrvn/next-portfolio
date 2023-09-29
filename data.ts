@@ -79,7 +79,7 @@ export const sliderImgFirst = [
     },
     {
         color: "#e3e3e3",
-        src: "codeengin3.jpg"
+        src: "codeengin3.JPG"
     },
     {
         color: "#e5e0e1",
